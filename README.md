@@ -1,1 +1,1 @@
-# simple python practice programs
+python scripts for practice
